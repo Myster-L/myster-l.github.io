@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.e5823b81.css",
-    "main.js": "./static/js/main.42f9121d.js",
-    "static/js/453.58e50211.chunk.js": "./static/js/453.58e50211.chunk.js",
+    "main.css": "./static/css/main.44219faa.css",
+    "main.js": "./static/js/main.b4da8f3e.js",
+    "static/js/453.e90435ed.chunk.js": "./static/js/453.e90435ed.chunk.js",
     "static/media/coin_1000_dez.png": "./static/media/coin_1000_dez.581117b48da78a8b3d3c.png",
     "static/media/coin_V.png": "./static/media/coin_V.10709b55d9f2f7e9974c.png",
     "static/media/coin_X.png": "./static/media/coin_X.705368aca7ac91d27e12.png",
@@ -21,6 +21,7 @@
     "static/media/coin_D.png": "./static/media/coin_D.123fc7248cfd1977f5db.png",
     "static/media/coin_M.png": "./static/media/coin_M.7e8e7a78234d9a326c21.png",
     "static/media/coin_10_dez.png": "./static/media/coin_10_dez.79ddd2fe1a6c24b0d980.png",
+    "static/media/cart.png": "./static/media/cart.0a147a8e75b0941e7a11.png",
     "static/media/corn.png": "./static/media/corn.b171e2e081bab1143646.png",
     "static/media/basket.png": "./static/media/basket.332c1cc13a401d45c38a.png",
     "static/media/rope2.png": "./static/media/rope2.17cb1c619301f80460b1.png",
@@ -34,12 +35,12 @@
     "static/media/newcoin1.svg": "./static/media/newcoin1.bc2d2cd7cbc013de0752e3e26371820a.svg",
     "static/media/coin1.svg": "./static/media/coin1.405c3ecd05992f5caf11dd01afbb476e.svg",
     "index.html": "./index.html",
-    "main.e5823b81.css.map": "./static/css/main.e5823b81.css.map",
-    "main.42f9121d.js.map": "./static/js/main.42f9121d.js.map",
-    "453.58e50211.chunk.js.map": "./static/js/453.58e50211.chunk.js.map"
+    "main.44219faa.css.map": "./static/css/main.44219faa.css.map",
+    "main.b4da8f3e.js.map": "./static/js/main.b4da8f3e.js.map",
+    "453.e90435ed.chunk.js.map": "./static/js/453.e90435ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5823b81.css",
-    "static/js/main.42f9121d.js"
+    "static/css/main.44219faa.css",
+    "static/js/main.b4da8f3e.js"
   ]
 }
