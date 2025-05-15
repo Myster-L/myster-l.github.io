@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.9b0cd7c1.css",
-    "main.js": "./static/js/main.fcf325e1.js",
+    "main.js": "./static/js/main.4732d44f.js",
     "static/js/453.2fddffba.chunk.js": "./static/js/453.2fddffba.chunk.js",
     "static/media/coin_1000_dez.png": "./static/media/coin_1000_dez.581117b48da78a8b3d3c.png",
     "static/media/coin_V.png": "./static/media/coin_V.10709b55d9f2f7e9974c.png",
@@ -50,11 +50,11 @@
     "static/media/coin1.svg": "./static/media/coin1.405c3ecd05992f5caf11dd01afbb476e.svg",
     "index.html": "./index.html",
     "main.9b0cd7c1.css.map": "./static/css/main.9b0cd7c1.css.map",
-    "main.fcf325e1.js.map": "./static/js/main.fcf325e1.js.map",
+    "main.4732d44f.js.map": "./static/js/main.4732d44f.js.map",
     "453.2fddffba.chunk.js.map": "./static/js/453.2fddffba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b0cd7c1.css",
-    "static/js/main.fcf325e1.js"
+    "static/js/main.4732d44f.js"
   ]
 }
