@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.44219faa.css",
-    "main.js": "./static/js/main.d0ab143c.js",
-    "static/js/453.e90435ed.chunk.js": "./static/js/453.e90435ed.chunk.js",
+    "main.css": "./static/css/main.9b0cd7c1.css",
+    "main.js": "./static/js/main.fcf325e1.js",
+    "static/js/453.2fddffba.chunk.js": "./static/js/453.2fddffba.chunk.js",
     "static/media/coin_1000_dez.png": "./static/media/coin_1000_dez.581117b48da78a8b3d3c.png",
     "static/media/coin_V.png": "./static/media/coin_V.10709b55d9f2f7e9974c.png",
     "static/media/coin_X.png": "./static/media/coin_X.705368aca7ac91d27e12.png",
@@ -24,10 +24,24 @@
     "static/media/cart.png": "./static/media/cart.0a147a8e75b0941e7a11.png",
     "static/media/corn.png": "./static/media/corn.b171e2e081bab1143646.png",
     "static/media/basket.png": "./static/media/basket.332c1cc13a401d45c38a.png",
-    "static/media/rope2.png": "./static/media/rope2.17cb1c619301f80460b1.png",
-    "static/media/chest.png": "./static/media/chest.bd1146240a5b49844d33.png",
+    "static/media/arrow_right.png": "./static/media/arrow_right.d19817df6d26e2d98123.png",
+    "static/media/arrow_left.png": "./static/media/arrow_left.6eb6c9bbf2d599969c22.png",
+    "static/media/star.png": "./static/media/star.5700438b4e7b5c63b928.png",
     "static/media/ship.png": "./static/media/ship.5e4bfee98beb7efb26f9.png",
+    "static/media/table_division_exchange_after_roman_marked.png": "./static/media/table_division_exchange_after_roman_marked.a85b81dc648f05643f62.png",
+    "static/media/table_division_exchange_before_roman_marked.png": "./static/media/table_division_exchange_before_roman_marked.c76d4dbab7399d022197.png",
+    "static/media/table_division_sol_right_roman_marked.png": "./static/media/table_division_sol_right_roman_marked.43e0748093a7234ea45b.png",
+    "static/media/table_division_exchange_after_binary_marked.png": "./static/media/table_division_exchange_after_binary_marked.eabdd4afd518741ab639.png",
+    "static/media/table_division_sol_left_roman_marked.png": "./static/media/table_division_sol_left_roman_marked.ee06a3e8afe1a68d4a1e.png",
+    "static/media/table_division_exchange_before_binary_marked.png": "./static/media/table_division_exchange_before_binary_marked.2de512185352380d027e.png",
+    "static/media/table_division_task_roman_marked.png": "./static/media/table_division_task_roman_marked.15c3b5b34146134f2770.png",
+    "static/media/table_division_sol_right_binary_marked.png": "./static/media/table_division_sol_right_binary_marked.68270f997f7a04e8eda6.png",
+    "static/media/table_division_sol_left_binary_marked.png": "./static/media/table_division_sol_left_binary_marked.b28fa92352f0ec1fe0b9.png",
+    "static/media/table_division_task_binary_marked.png": "./static/media/table_division_task_binary_marked.fa80be5b203adb91cf32.png",
+    "static/media/table_division_coins_roman.png": "./static/media/table_division_coins_roman.d60f185b1a747e5fc723.png",
+    "static/media/table_division_coins_binary.png": "./static/media/table_division_coins_binary.9f5fdb3ad0f1ef2a8b29.png",
     "static/media/coin100.svg": "./static/media/coin100.d704916a596013be19c8ae4fb50d7005.svg",
+    "static/media/info.png": "./static/media/info.d26a1b28d33780a08999.png",
     "static/media/coin10.svg": "./static/media/coin10.d6617337ec7fc1c529b624bb26bace76.svg",
     "static/media/newcoin1000.svg": "./static/media/newcoin1000.300dcec6a80981298f7ffa05b4d81420.svg",
     "static/media/newcoin100.svg": "./static/media/newcoin100.5b71dcd07de29223f19b49149890ae64.svg",
@@ -35,12 +49,12 @@
     "static/media/newcoin1.svg": "./static/media/newcoin1.bc2d2cd7cbc013de0752e3e26371820a.svg",
     "static/media/coin1.svg": "./static/media/coin1.405c3ecd05992f5caf11dd01afbb476e.svg",
     "index.html": "./index.html",
-    "main.44219faa.css.map": "./static/css/main.44219faa.css.map",
-    "main.d0ab143c.js.map": "./static/js/main.d0ab143c.js.map",
-    "453.e90435ed.chunk.js.map": "./static/js/453.e90435ed.chunk.js.map"
+    "main.9b0cd7c1.css.map": "./static/css/main.9b0cd7c1.css.map",
+    "main.fcf325e1.js.map": "./static/js/main.fcf325e1.js.map",
+    "453.2fddffba.chunk.js.map": "./static/js/453.2fddffba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44219faa.css",
-    "static/js/main.d0ab143c.js"
+    "static/css/main.9b0cd7c1.css",
+    "static/js/main.fcf325e1.js"
   ]
 }
