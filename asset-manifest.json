@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.9b0cd7c1.css",
-    "main.js": "./static/js/main.4732d44f.js",
-    "static/js/453.2fddffba.chunk.js": "./static/js/453.2fddffba.chunk.js",
+    "main.css": "./static/css/main.bda94e82.css",
+    "main.js": "./static/js/main.e1702113.js",
+    "static/js/453.e90435ed.chunk.js": "./static/js/453.e90435ed.chunk.js",
     "static/media/coin_1000_dez.png": "./static/media/coin_1000_dez.581117b48da78a8b3d3c.png",
     "static/media/coin_V.png": "./static/media/coin_V.10709b55d9f2f7e9974c.png",
     "static/media/coin_X.png": "./static/media/coin_X.705368aca7ac91d27e12.png",
@@ -23,11 +23,14 @@
     "static/media/coin_10_dez.png": "./static/media/coin_10_dez.79ddd2fe1a6c24b0d980.png",
     "static/media/cart.png": "./static/media/cart.0a147a8e75b0941e7a11.png",
     "static/media/corn.png": "./static/media/corn.b171e2e081bab1143646.png",
+    "static/media/mascot_maya.png": "./static/media/mascot_maya.2aaed8c536618c840dd7.png",
+    "static/media/coin_base.png": "./static/media/coin_base.29cb573846873e0ebce2.png",
+    "static/media/mascot_computer.png": "./static/media/mascot_computer.f0d5388877b58fcdac23.png",
     "static/media/basket.png": "./static/media/basket.332c1cc13a401d45c38a.png",
+    "static/media/mascot_roman.png": "./static/media/mascot_roman.362599b9efae108fd0bb.png",
     "static/media/arrow_right.png": "./static/media/arrow_right.d19817df6d26e2d98123.png",
     "static/media/arrow_left.png": "./static/media/arrow_left.6eb6c9bbf2d599969c22.png",
     "static/media/star.png": "./static/media/star.5700438b4e7b5c63b928.png",
-    "static/media/ship.png": "./static/media/ship.5e4bfee98beb7efb26f9.png",
     "static/media/table_division_exchange_after_roman_marked.png": "./static/media/table_division_exchange_after_roman_marked.a85b81dc648f05643f62.png",
     "static/media/table_division_exchange_before_roman_marked.png": "./static/media/table_division_exchange_before_roman_marked.c76d4dbab7399d022197.png",
     "static/media/table_division_sol_right_roman_marked.png": "./static/media/table_division_sol_right_roman_marked.43e0748093a7234ea45b.png",
@@ -40,21 +43,14 @@
     "static/media/table_division_task_binary_marked.png": "./static/media/table_division_task_binary_marked.fa80be5b203adb91cf32.png",
     "static/media/table_division_coins_roman.png": "./static/media/table_division_coins_roman.d60f185b1a747e5fc723.png",
     "static/media/table_division_coins_binary.png": "./static/media/table_division_coins_binary.9f5fdb3ad0f1ef2a8b29.png",
-    "static/media/coin100.svg": "./static/media/coin100.d704916a596013be19c8ae4fb50d7005.svg",
     "static/media/info.png": "./static/media/info.d26a1b28d33780a08999.png",
-    "static/media/coin10.svg": "./static/media/coin10.d6617337ec7fc1c529b624bb26bace76.svg",
-    "static/media/newcoin1000.svg": "./static/media/newcoin1000.300dcec6a80981298f7ffa05b4d81420.svg",
-    "static/media/newcoin100.svg": "./static/media/newcoin100.5b71dcd07de29223f19b49149890ae64.svg",
-    "static/media/newcoin10.svg": "./static/media/newcoin10.047f5ec31031b97c07a87d7053a7178c.svg",
-    "static/media/newcoin1.svg": "./static/media/newcoin1.bc2d2cd7cbc013de0752e3e26371820a.svg",
-    "static/media/coin1.svg": "./static/media/coin1.405c3ecd05992f5caf11dd01afbb476e.svg",
     "index.html": "./index.html",
-    "main.9b0cd7c1.css.map": "./static/css/main.9b0cd7c1.css.map",
-    "main.4732d44f.js.map": "./static/js/main.4732d44f.js.map",
-    "453.2fddffba.chunk.js.map": "./static/js/453.2fddffba.chunk.js.map"
+    "main.bda94e82.css.map": "./static/css/main.bda94e82.css.map",
+    "main.e1702113.js.map": "./static/js/main.e1702113.js.map",
+    "453.e90435ed.chunk.js.map": "./static/js/453.e90435ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b0cd7c1.css",
-    "static/js/main.4732d44f.js"
+    "static/css/main.bda94e82.css",
+    "static/js/main.e1702113.js"
   ]
 }
